@@ -136,11 +136,3 @@ If you have questions or want to expand the project (e.g., hyperparameter tuning
 
 ---
 
-If you'd like, I can:
-
-✅ Add a Table of Contents
-✅ Add GitHub-style badges
-✅ Add images/plots from the notebook
-✅ Tailor it to your username and repository name
-
-Just tell me!
