@@ -28,7 +28,6 @@ The workflow aligns with the methodological approach described in the research a
 │
 ├── House_Price_Prediction.ipynb   # Main Jupyter Notebook
 ├── README.md                      # Project documentation
-└── data/                          # (Optional) Dataset storage
 ```
 
 ---
